@@ -1,0 +1,19 @@
+{
+  "name": "easyatomicswap",
+  "version": "0.0.1",
+  "description": "Easy to use atomic-swap software for Ethereum and its derivatives.",
+  "main": "index.js",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ethereum",
+    "Cryptocurrency"
+  ],
+  "author": "Cupmouse",
+  "license": "MIT"
+}
